@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">eCommerce</string>
+    <string name="text">Find, Discover, Choose and Buy Online</string>
+    <string name="text2">Already have an account? Login</string>
+    <string name="text3">Join Now</string>
+    <string name="hint1">Enter Your Phone</string>
+    <string name="hint2">Enter Your Password</string>
+    <string name="text4">Remember me</string>
+    <string name="text5">Forget Password</string>
+    <string name="text6">Forget Password</string>
+    <string name="text7">I am an admin</string>
+    <string name="text8">I am not an admin</string>
+    <string name="text9">Login</string>
+    <string name="hint3">Enter Your Phone</string>
+    <string name="hint4">Enter Your Password</string>
+    <string name="text10">User Name</string>
+    <string name="text11">Create User</string>
+    <string name="text12">Logout</string>
+    <string name="text13">Add New Product</string>
+    <string name="hint5">Product Name</string>
+    <string name="hint6">Product Description</string>
+    <string name="hint7">Product Price</string>
+    <string name="text14">Add Product</string>
+    <string name="title_activity_homepage">Homepage</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+</resources>
